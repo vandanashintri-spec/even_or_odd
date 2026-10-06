@@ -4,5 +4,6 @@ def even_odd(num):
     else:
         return "Odd"
 
-print(even_odd(10))  # Even
+print(even_odd(10))  # Ev
+
 print(even_odd(7))   # Odd
